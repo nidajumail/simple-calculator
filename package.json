@@ -1,0 +1,20 @@
+{
+  "name": "nidz2-simple-calculator",
+  "version": "2.0.2",
+  "description": "A simple calculator with typescript",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nida",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "nidz2-simple-calculator": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
